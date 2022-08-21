@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/vhpcastro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vhpcastro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhpcastro&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vhpcastro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhpcastro&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-  <img align="right" alt="me" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/710276943592816720/1010951613109776564/download20220800134035.png">
+  <img align="right" alt="me" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/710276943592816720/1010939207495204904/github-gif.gif">
 </div>
   
   ##
