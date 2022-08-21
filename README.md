@@ -1,7 +1,7 @@
 ### ✨ Hello, everyone!!
 
 - 📚 I’m currently learning front-end stacks.
-- 🧑 Pronouns: he/him
+- 💻 Programming is the future..!
 
 <div align="center">
   <a href="https://github.com/vhpcastro">
