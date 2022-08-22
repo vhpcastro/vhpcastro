@@ -18,7 +18,7 @@
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
-  <img align="right" alt="me" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/710276943592816720/1010952417694728303/download20220800134318.png">
+  <img align="right" alt="me" height="150" style="border-radius:50px;" src="https://www.facebook.com/100044474712859/videos/431939818967124/">
 </div>
   
   ##
